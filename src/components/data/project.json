@@ -1,0 +1,50 @@
+[
+    {
+        "key": 1,
+        "title":"Expense Tracker",
+        "imageSrc":"src\\components\\data\\project-images\\expancetracker.jpg",
+        "description":"A simple expense tracker app that allows users to add and delete transactions.",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 2,
+        "title":"Weather App",
+        "imageSrc":"src\\components\\data\\project-images\\weather app.jpg",
+        "description":"A simple weather app that provides real-time weather updates for any location.",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 3,
+        "title":"E-Commerce Simple Webpage",
+        "imageSrc":"src\\components\\data\\project-images\\e commerce.jpg",
+        "description":"An intuitive e-commerce webpage for seamless online shopping and secure transactions.",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 4,
+        "title":"Todo List Webpage",
+        "imageSrc":"src/components/data/project-images/todolist.jpg",
+        "description":"A simple and efficient to-do list webpage to organize tasks and boost productivity.",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 5,
+        "title":"Stone-Paper-Scissor Game",
+        "imageSrc":"src\\components\\data\\project-images\\stonepaperscissor.jpg",
+        "description":"A fun and interactive Stone-Paper-Scissors game to challenge your luck and strategy!",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 6,
+        "title":"Tic-Tac-Toe Game",
+        "imageSrc":"src\\components\\data\\project-images\\tic tac toe.jpg",
+        "description":"A classic Tic-Tac-Toe game for fun and strategic battles!",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    }
+]
