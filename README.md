@@ -1,17 +1,8 @@
-# My-Portfolio
-🚀 Welcome to my personal portfolio! This website showcases my skills, projects, experience, and achievements
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Hello,
+Currently, two official plugins are available:
 
-This readme file is made to help people face trouble while opening in live.
-
-Step-1 I cannot upload node and icons and aos files so you have to install them independently in your system to install them run below commands one by one
-
-npm install aos npm install react-icons npm install typed.js npm install react-icons@latest
-
-Step-2 Now all Dependencies are intall run the live server with below command
-
-npm run dev
-
-Thanks
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
