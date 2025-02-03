@@ -2,7 +2,7 @@
     {
         "key": 1,
         "title":"Expense Tracker",
-        "imageSrc":"src\\components\\data\\project-images\\expancetracker.jpg",
+        "imageSrc":"https://media.istockphoto.com/id/1342223620/photo/unrecognizable-afro-american-businessman-checking-family-expenses-using-digital-tablet.jpg?s=1024x1024&w=is&k=20&c=ARK74QzqxI6N8Zxr0aWPA2wYR73v5FOg5a3vpkAnpSo=",
         "description":"A simple expense tracker app that allows users to add and delete transactions.",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
