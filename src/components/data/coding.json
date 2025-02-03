@@ -1,7 +1,7 @@
 [
     {
       "title": "LeetCode",
-      "imageSrc": "codinglogo/leetcode.png",
+      "imageSrc": "https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000",
       "link": "https://leetcode.com/u/Divyam9335/"
     },
     {
@@ -11,12 +11,12 @@
       },
       {
         "title": "CodeForces",
-        "imageSrc": "public\\assets\\codinglogo\\codeforces.png",
+        "imageSrc": "https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000",
       "link": "https://codeforces.com/profile/divyam7275"
       },
       {
         "title": "Codolio",
-        "imageSrc": "public\\assets\\codinglogo\\codolio.png",
+        "imageSrc": "https://img.icons8.com/?size=100&id=bWSF9BaSORCP&format=png&color=000000",
       "link": "https://codolio.com/profile/Uf4r78Pa"
       }
 ]
