@@ -2,41 +2,49 @@
     {
         "key": 1,
         "title":"Expense Tracker",
-        "imageSrc":"https://media.istockphoto.com/id/1342223620/photo/unrecognizable-afro-american-businessman-checking-family-expenses-using-digital-tablet.jpg?s=1024x1024&w=is&k=20&c=ARK74QzqxI6N8Zxr0aWPA2wYR73v5FOg5a3vpkAnpSo=",
+        "imageSrc":"src\\components\\data\\project-images\\expancetracker.jpg",
         "description":"A simple expense tracker app that allows users to add and delete transactions.",
-        "demo":"https://expense-tracker-five-peach.vercel.app/",
+        "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
     },
     {
         "key": 2,
         "title":"Weather App",
-        "imageSrc":"https://media.istockphoto.com/id/1301200293/photo/woman-outside-in-city-checking-weather-forecast-on-her-mobile-phone.jpg?s=1024x1024&w=is&k=20&c=fKBxG0HczRYNziGi_fF5AUiFGvKYz2akJ17zEqCPpfA=",
+        "imageSrc":"src\\components\\data\\project-images\\weather app.jpg",
         "description":"A simple weather app that provides real-time weather updates for any location.",
-        "demo":"https://weather-website-three-navy.vercel.app/",
+        "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
     },
     {
         "key": 3,
         "title":"E-Commerce Simple Webpage",
-        "imageSrc":"https://media.istockphoto.com/id/831640620/photo/e-commerce-concept.jpg?s=1024x1024&w=is&k=20&c=NUX0cHYj7LeaHI-oPXShGDMZfOYXkPOax44UMeAhICg=",
+        "imageSrc":"src\\components\\data\\project-images\\e commerce.jpg",
         "description":"An intuitive e-commerce webpage for seamless online shopping and secure transactions.",
-        "demo":"https://simple-ecommerce-website-transaction-handler.vercel.app/",
+        "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
     },
     {
         "key": 4,
         "title":"Todo List Webpage",
-        "imageSrc":"https://cdn.pixabay.com/photo/2020/05/30/09/53/todo-lists-5238324_1280.jpg",
+        "imageSrc":"src/components/data/project-images/todolist.jpg",
         "description":"A simple and efficient to-do list webpage to organize tasks and boost productivity.",
-        "demo":"https://todo-list-five-eta-42.vercel.app/",
+        "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
     },
     {
         "key": 5,
         "title":"Stone-Paper-Scissor Game",
-        "imageSrc":"https://media.istockphoto.com/id/1269211670/vector/rock-paper-scissors-body-parts-icon-set.jpg?s=1024x1024&w=is&k=20&c=5lcFGwcl0eOTBuSM1aMTS_hOW1DsGatPuvMiE55q7oc=",
+        "imageSrc":"src\\components\\data\\project-images\\stonepaperscissor.jpg",
         "description":"A fun and interactive Stone-Paper-Scissors game to challenge your luck and strategy!",
-        "demo":"https://stone-paper-scissors-blush.vercel.app/",
+        "demo":"https://expense-tracker-2021.netlify.app/",
+        "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 6,
+        "title":"Tic-Tac-Toe Game",
+        "imageSrc":"src\\components\\data\\project-images\\tic tac toe.jpg",
+        "description":"A classic Tic-Tac-Toe game for fun and strategic battles!",
+        "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
     }
 ]

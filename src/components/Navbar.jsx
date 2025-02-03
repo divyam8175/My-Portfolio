@@ -1,6 +1,8 @@
 import React from "react";
 
+import { FaSun, FaMoon } from "react-icons/fa";
 const Navbar = () => {
+
   return (
     <>
       <div className="container nav_bar"
