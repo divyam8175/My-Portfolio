@@ -10,7 +10,7 @@
     {
         "key": 2,
         "title":"Weather App",
-        "imageSrc":"src\\components\\data\\project-images\\weather app.jpg",
+        "imageSrc":"https://media.istockphoto.com/id/1301200293/photo/woman-outside-in-city-checking-weather-forecast-on-her-mobile-phone.jpg?s=1024x1024&w=is&k=20&c=fKBxG0HczRYNziGi_fF5AUiFGvKYz2akJ17zEqCPpfA=",
         "description":"A simple weather app that provides real-time weather updates for any location.",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
@@ -18,7 +18,7 @@
     {
         "key": 3,
         "title":"E-Commerce Simple Webpage",
-        "imageSrc":"src\\components\\data\\project-images\\e commerce.jpg",
+        "imageSrc":"https://media.istockphoto.com/id/831640620/photo/e-commerce-concept.jpg?s=1024x1024&w=is&k=20&c=NUX0cHYj7LeaHI-oPXShGDMZfOYXkPOax44UMeAhICg=",
         "description":"An intuitive e-commerce webpage for seamless online shopping and secure transactions.",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
@@ -26,7 +26,7 @@
     {
         "key": 4,
         "title":"Todo List Webpage",
-        "imageSrc":"src/components/data/project-images/todolist.jpg",
+        "imageSrc":"https://cdn.pixabay.com/photo/2020/05/30/09/53/todo-lists-5238324_1280.jpg",
         "description":"A simple and efficient to-do list webpage to organize tasks and boost productivity.",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
@@ -34,7 +34,7 @@
     {
         "key": 5,
         "title":"Stone-Paper-Scissor Game",
-        "imageSrc":"src\\components\\data\\project-images\\stonepaperscissor.jpg",
+        "imageSrc":"https://media.istockphoto.com/id/1269211670/vector/rock-paper-scissors-body-parts-icon-set.jpg?s=1024x1024&w=is&k=20&c=5lcFGwcl0eOTBuSM1aMTS_hOW1DsGatPuvMiE55q7oc=",
         "description":"A fun and interactive Stone-Paper-Scissors game to challenge your luck and strategy!",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
@@ -42,7 +42,7 @@
     {
         "key": 6,
         "title":"Tic-Tac-Toe Game",
-        "imageSrc":"src\\components\\data\\project-images\\tic tac toe.jpg",
+        "imageSrc":"https://cdn.pixabay.com/photo/2023/01/22/23/16/tic-tac-toe-7737546_1280.jpg",
         "description":"A classic Tic-Tac-Toe game for fun and strategic battles!",
         "demo":"https://expense-tracker-2021.netlify.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
