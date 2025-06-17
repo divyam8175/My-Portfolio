@@ -38,5 +38,13 @@
         "description":"A fun and interactive Stone-Paper-Scissors game to challenge your luck and strategy!",
         "demo":"https://stone-paper-scissors-blush.vercel.app/",
         "source":"https://github.com/divyam8175?tab=repositories"
+    },
+    {
+        "key": 6,
+        "title":"Talent Bridge",
+        "imageSrc":"https://media.licdn.com/dms/image/v2/D4E0BAQFnhhewO4OIfQ/company-logo_200_200/company-logo_200_200/0/1739210140126/talentbridge_logo?e=2147483647&v=beta&t=NxJC1pGqMs1KcpAb6bOV1r5jX-zDZCcTYkEHkyn5CZk",
+        "description":"Talent Bridge is a web/mobile application designed to connect recruiters (e.g., club heads, coordinators) and potential candidates (students) within a college campus.",
+        "demo":"https://talent-bridge-frontend.onrender.com/login",
+        "source":"https://github.com/divyam8175/Talent-Bridge-frontend"
     }
 ]
