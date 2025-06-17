@@ -32,6 +32,22 @@
     "imageSrc": "skills/c.png"
   },
   {
+    "title": "Express Js",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
     "title": "MySQL",
     "imageSrc": "skills/mysql.png"
   }

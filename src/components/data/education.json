@@ -1,23 +1,26 @@
 [
     {
         "key": 1,
-        "Course":"BTech in Computer Science and Engineering",
+        "Course":"Bachelors of Technology",
+        "stream":"Computer Science and Engineering",
         "institution":"G.L Bajaj Institute of Technology and Management, Greater Noida",
-        "duration":"2022 - 2026",
-        "Percentage":"83"
+        "duration":"Duration:- 2022 - 2026",
+        "Percentage":"Cgpa:- 8.7"
     },
     {
         "key": 2,
         "Course":"Intermediate",
+        "stream":"PCM (Physics, Chemistry, Mathematics)",
         "institution":"OSVN Inter college,Kanpur",
-        "duration":"2019 - 2021",
-        "Percentage":"88"
+        "duration":"Duration:- 2019 - 2021",
+        "Percentage":"Percentage:- 88"
     },
     {
         "key": 3,
         "Course":"High School",
+        "stream":"Science",
         "institution":"Subhash Public Senior Secondary School, Kanpur",
-        "duration":"2017 - 2019",
-        "Percentage":"87"
+        "duration":"Duration:- 2017 - 2019",
+        "Percentage":"Percentage:- 87"
     }
 ]
