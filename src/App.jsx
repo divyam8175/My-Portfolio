@@ -5,7 +5,7 @@ import Skill from "./components/Skill";
 import Coding from "./components/codingplatforms";
 import Pro from "./components/Project";
 import Contact from "./components/Contact";
-import Education from "./components/education";
+import Study from "./components/Study";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -19,7 +19,7 @@ const App = () => {
       <Navbar />
       <div className="container">
         <Home />
-        <Education />
+        <Study />
         <Coding />
         <Skill />
         <Pro />
