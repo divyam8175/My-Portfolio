@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/study.css'; // Assuming you have a CSS file for styling
+import './study.css'; // Assuming you have a CSS file for styling
 import education from "./data/education.json"; // Adjust the path as necessary
 
 const Study= () => {
